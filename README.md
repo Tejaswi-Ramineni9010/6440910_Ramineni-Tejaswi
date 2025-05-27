@@ -43,7 +43,7 @@ Key Folder:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Tejaswi-Ramineni9010/6440910_Ramineni-Tejaswi.git
+   git clone https://github.com/Tejaswi-Ramineni9010/6440910_Ramineni-Tejaswi
 Open relevant folders in your preferred IDE or code editor.
 
 Use any local server (e.g., Live Server in VS Code) for HTML/CSS/JS files.
